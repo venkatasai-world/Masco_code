@@ -1,7 +1,7 @@
 # 🆘 Morse Code Converter
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/International_Morse_Code.svg" width="600" alt="Morse Code Diagram">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Morse_Code_Mnemonic_chart_from_Girl_Guides_handbook_1916.jpg/250px-Morse_Code_Mnemonic_chart_from_Girl_Guides_handbook_1916.jpg" width="600" alt="Morse Code Diagram">
 </p>
 
 Morse Code Converter is a simple Python application that converts normal text into Morse code.
